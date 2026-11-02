@@ -10,7 +10,7 @@ I design, integrate and ship tools that real businesses use every day.
 
 ### Featured work
 - **[Landify](https://landify.lat)**: my web agency for local businesses, running on an in-house platform (admin panel, client portal, recurring billing, automated reports).
-- **Bitso trading bot**: modular Python bot with paper trading, tests, Telegram control and a double safety lock for real money. *(public repo coming soon)*
+- **[Bitso trading bot](https://github.com/octavio-espinosa-ramirez/bitso-trend-bot)**: modular Python bot with paper trading, backtesting, tests + CI, Telegram control and a double safety lock for real money.
 - **Delivery tracking dashboard** for a dental products company (Google Sheets + Apps Script + Netlify).
 
 ### Stack
